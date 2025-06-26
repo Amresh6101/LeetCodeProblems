@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0278-first-bad-version) |
 ## String
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
