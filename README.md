@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,12 +42,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Two Pointers
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
