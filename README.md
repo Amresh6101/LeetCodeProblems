@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3396-valid-word](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3617-find-the-original-typed-string-i) |
 ## Simulation
 |  |
