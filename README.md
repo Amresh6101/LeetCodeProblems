@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
