@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Design
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
