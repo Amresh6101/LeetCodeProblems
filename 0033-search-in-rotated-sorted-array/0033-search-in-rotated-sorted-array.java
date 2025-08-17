@@ -1,33 +1,37 @@
 class Solution {
     public int search(int[] arr, int target) {
-        int start=0;
-        int n=arr.length;
-        int end=n-1;
+        // we have to find which part of the array is sorted it is either left and right.
 
-        while(start<=end){
-            int mid=start+(end-start)/2;
+        int n=arr.length;
+        int low=0;
+        int high=n-1;
+
+
+        while(low<=high){
+            int mid=low+(high-low)/2;
             if(arr[mid]==target) return mid;
 
-            if(arr[start]<=arr[mid]){
-              // left sorted
-              if(arr[start]<=target && target<=arr[mid]){
-                end=mid-1;
-              }
-              else{
-                start=mid+1;
-              }
+            // if arr[mid] not equal to target we have to find which part is sorted and not sorted.
+
+            else if(arr[mid]<=arr[high]){
+                 // check is target is present in their search space.
+                 if(arr[mid]<target && target<=arr[high]){
+                    low=mid+1;
+                 }
+                 else{
+                    high=mid-1;
+                 }
             }
             else{
-                // right part sorted
-                if(arr[mid]<=target && target<=arr[end]){
-                    start=mid+1;
+                if(arr[low]<=target && target<=arr[mid]){
+                    high=mid-1;
                 }
                 else{
-                    end=mid-1;
+                    low=mid+1;
                 }
-
             }
         }
         return -1;
+
     }
 }
