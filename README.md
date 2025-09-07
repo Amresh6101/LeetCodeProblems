@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
