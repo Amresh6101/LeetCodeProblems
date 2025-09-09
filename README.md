@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2737-row-with-maximum-ones](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2737-row-with-maximum-ones) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Matrix
+|  |
+| ------- |
+| [2737-row-with-maximum-ones](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
