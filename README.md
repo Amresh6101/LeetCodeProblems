@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
@@ -186,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
