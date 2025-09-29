@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
+| [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0907-koko-eating-bananas](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2634-minimum-common-value](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2634-minimum-common-value) |
@@ -211,6 +213,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
