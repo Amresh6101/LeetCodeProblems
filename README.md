@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0907-koko-eating-bananas](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Interactive
@@ -209,5 +211,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
