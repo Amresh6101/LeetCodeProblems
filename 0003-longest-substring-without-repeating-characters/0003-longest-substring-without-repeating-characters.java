@@ -1,9 +1,6 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
 
-        // create map
-        // 1. check element is present or not
-
         HashMap<Character,Integer> map1=new HashMap<>();
         // ele-index
         
