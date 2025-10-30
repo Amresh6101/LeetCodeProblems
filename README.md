@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1714-rearrange-spaces-between-words) |
+| [2128-reverse-prefix-of-word](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3396-valid-word](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3396-valid-word) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [2128-reverse-prefix-of-word](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2128-reverse-prefix-of-word) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2634-minimum-common-value) |
 ## Linked List
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2128-reverse-prefix-of-word](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
