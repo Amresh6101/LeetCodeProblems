@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
