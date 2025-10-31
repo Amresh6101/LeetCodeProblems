@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3396-valid-word](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3617-find-the-original-typed-string-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Interactive
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
