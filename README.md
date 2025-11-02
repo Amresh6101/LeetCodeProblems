@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0883-car-fleet) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
