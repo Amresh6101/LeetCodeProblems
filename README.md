@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1720-crawler-log-folder](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1720-crawler-log-folder) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1714-rearrange-spaces-between-words](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1714-rearrange-spaces-between-words) |
+| [1720-crawler-log-folder](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-crawler-log-folder](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
