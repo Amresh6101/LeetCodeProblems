@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0394-decode-string) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1714-rearrange-spaces-between-words](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1714-rearrange-spaces-between-words) |
 | [1720-crawler-log-folder](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1720-crawler-log-folder) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3830-find-closest-person) |
 ## Recursion
