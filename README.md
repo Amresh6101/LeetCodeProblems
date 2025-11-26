@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0682-baseball-game) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0394-decode-string) |
+| [0474-ones-and-zeroes](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0474-ones-and-zeroes) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0474-ones-and-zeroes) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2808-painting-the-walls](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2808-painting-the-walls) |
