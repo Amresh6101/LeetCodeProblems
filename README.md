@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2634-minimum-common-value) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2634-minimum-common-value](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2634-minimum-common-value) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
