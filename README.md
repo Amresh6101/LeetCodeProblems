@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0474-ones-and-zeroes) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0883-car-fleet](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0883-car-fleet) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
