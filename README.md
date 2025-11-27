@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0474-ones-and-zeroes) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0883-car-fleet](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0883-car-fleet) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
