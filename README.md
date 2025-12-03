@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0066-plus-one) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0394-decode-string) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0242-valid-anagram) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0217-contains-duplicate) |
