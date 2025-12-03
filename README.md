@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0202-happy-number) |
 | [2128-reverse-prefix-of-word](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2128-reverse-prefix-of-word) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2634-minimum-common-value) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0202-happy-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
