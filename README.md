@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0912-sort-an-array) |
 | [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -179,12 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0883-car-fleet](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0883-car-fleet) |
+| [0912-sort-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0912-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0912-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -329,4 +333,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
