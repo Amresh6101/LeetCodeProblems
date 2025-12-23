@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0217-contains-duplicate) |
@@ -391,15 +392,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0841-keys-and-rooms) |
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
