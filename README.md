@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -385,13 +387,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0841-keys-and-rooms) |
 ## Graph
 |  |
