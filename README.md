@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0739-daily-temperatures) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [2047-find-a-peak-element-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -389,17 +391,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0841-keys-and-rooms) |
 ## Graph
 |  |
