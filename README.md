@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2634-minimum-common-value) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2634-minimum-common-value](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2634-minimum-common-value) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Segment Tree
 |  |
