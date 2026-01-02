@@ -1,33 +1,24 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
 
-        HashMap<Character,Integer> map1=new HashMap<>();
-        // ele-index
+
+        // dynamic sliding window
         
-        int left=0;
-        int right=0;
-        int maxLen=0;
-
-        while(right<s.length()){
-            // if charAt(i) not present in hashmap
-            if(!map1.containsKey(s.charAt(right))){
-                map1.put(s.charAt(right),right);
-                int len=right-left+1;
-                maxLen=Math.max(len,maxLen);               
-            }
-
-            // if element is present in hashMap
-            else{
-                int idx=map1.get(s.charAt(right));
-                if(idx>=left){
-                    left=idx+1;                 
+        // basic ds window pattern template  880/988 testcase passed
+        int wSize=0;
+        
+        for(int i=0;i<s.length();i++){
+            Set<Character> list=new  HashSet<>();
+            for(int j=i;j<s.length();j++){
+                if(list.contains(s.charAt(j))){
+                    break;
                 }
-                map1.put(s.charAt(right),right);
-                int len=right-left+1;
-                maxLen=Math.max(len,maxLen); 
+                list.add(s.charAt(j));
+                wSize=Math.max(wSize,j-i+1);
+
             }
-            right++;
         }
-        return maxLen;
+
+        return wSize;     
     }
 }
