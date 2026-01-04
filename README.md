@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0883-car-fleet) |
+| [0904-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0912-sort-an-array) |
 | [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
