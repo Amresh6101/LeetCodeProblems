@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0841-keys-and-rooms) |
 ## Graph
@@ -449,4 +451,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0187-repeated-dna-sequences) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
