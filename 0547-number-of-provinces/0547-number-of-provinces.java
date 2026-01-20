@@ -19,7 +19,7 @@ class Solution {
             System.out.println(i + " -> " + adjList.get(i));
         }
 
-        int[] visitedArray=new int[isConnected.length+1];
+        int[] visitedArray=new int[isConnected.length];
         int count=0;
         for(int i=0;i<isConnected.length;i++){
             if(visitedArray[i]==0){
