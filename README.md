@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0695-max-area-of-island) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0474-ones-and-zeroes) |
+| [0542-01-matrix](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0542-01-matrix) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2808-painting-the-walls](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2808-painting-the-walls) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0994-rotting-oranges) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0733-flood-fill) |
