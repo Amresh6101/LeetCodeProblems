@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0994-rotting-oranges](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1020-number-of-enclaves) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1020-number-of-enclaves) |
 | [2047-find-a-peak-element-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1020-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
