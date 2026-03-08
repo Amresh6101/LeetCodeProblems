@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0394-decode-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0169-majority-element) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0200-number-of-islands) |
