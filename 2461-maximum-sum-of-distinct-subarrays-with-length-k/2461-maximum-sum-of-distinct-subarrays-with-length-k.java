@@ -1,68 +1,33 @@
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
 
-        long max=0,
-             tempSum=0;
+        long sum=0;
+        long maxSum=0;
+        int n=nums.length;
+        int i=0;
+        HashSet<Integer> set=new HashSet<>();
 
-        Map<Integer,Integer> map=new HashMap<>();
-        int duplicate=0;
+        for(int j=0;j<nums.length;j++){
 
-        // fixed size sliding window
-        // fisrt reach at window size
-        for(int i=0;i<k;i++){
-            if(map.containsKey(nums[i])==true){
-                map.put(nums[i],map.get(nums[i])+1);
-            }
-            else{
-                map.put(nums[i],1);
-            }
-            
-            tempSum+=nums[i];
+            // first check whether nums[j] is present in set or not.
+            // if present ,shrink the window untill duplicate remove
 
-            if(map.get(nums[i])>1){
-                duplicate++;
-            }
-        }  
-        if(duplicate==0){
-            max=Math.max(tempSum,max);
-        } 
-
-        // once window size achieved always try to maintain window size
-        // maintain krte hue
-        // nums[j] ko add kre aur nums[i] ko delete kre
-        // yaha pe nums[i] ko nums[i-k] use kr hai hai 
-        // kyuki single loop me khel rhe hai
-
-        for(int i=k;i<nums.length;i++){
-            int numToBeAdd=nums[i];
-            int numToBeRemove=nums[i-k];
-
-            // logic to add the new element
-            if(map.containsKey(nums[i])==true){
-                map.put(nums[i],map.get(nums[i])+1);
-            }
-            else{
-               map.put(nums[i],1);
-            }
-          
-            if(map.get(nums[i])>1){
-                duplicate++;
+            while(set.contains(nums[j])){
+                set.remove(nums[i]);
+                sum-=nums[i];
+                i++;
             }
 
-            tempSum+=nums[i];
+            sum+=nums[j];
+            set.add(nums[j]);
 
-            // logic to remove the element
-            if(map.get(nums[i-k])>1){
-                duplicate--;
+            if(j-i+1 == k){
+               maxSum=Math.max(maxSum,sum);
+               sum-=nums[i];
+               set.remove(nums[i]);
+               i++; 
             }
-            map.put(nums[i-k],map.get(nums[i-k])-1);
-
-            tempSum-=nums[i-k];
-
-            if(duplicate ==0){
-                max=Math.max(max,tempSum);
-            }
-        }       
-        return max;
+        }
+        return maxSum;
     }
 }
