@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0912-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
@@ -509,4 +512,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0547-number-of-provinces) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
