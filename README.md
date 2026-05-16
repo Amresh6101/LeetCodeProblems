@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1720-crawler-log-folder) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2808-painting-the-walls](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2808-painting-the-walls) |
 ## Divide and Conquer
 |  |
