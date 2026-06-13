@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0474-ones-and-zeroes) |
+| [0567-permutation-in-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0523-continuous-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0940-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2128-reverse-prefix-of-word) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/Amresh6101/LeetCodeProblems/tree/master/2634-minimum-common-value) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Amresh6101/LeetCodeProblems/tree/master/0904-fruit-into-baskets) |
